@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		43066CD22A837A88003AAF3F /* oogway.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 43066CD12A837A88003AAF3F /* oogway.mp4 */; };
 		4359AAB72A835584002BE6D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4359AAB62A835584002BE6D9 /* AppDelegate.swift */; };
 		4359AAB92A835584002BE6D9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4359AAB82A835584002BE6D9 /* SceneDelegate.swift */; };
 		4359AABB2A835584002BE6D9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4359AABA2A835584002BE6D9 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		43066CD12A837A88003AAF3F /* oogway.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = oogway.mp4; path = ../../../Downloads/oogway.mp4; sourceTree = "<group>"; };
 		4359AAB32A835584002BE6D9 /* Video-Player.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Video-Player.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4359AAB62A835584002BE6D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4359AAB82A835584002BE6D9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				4359AAB62A835584002BE6D9 /* AppDelegate.swift */,
 				4359AAB82A835584002BE6D9 /* SceneDelegate.swift */,
 				4359AABA2A835584002BE6D9 /* ViewController.swift */,
+				43066CD12A837A88003AAF3F /* oogway.mp4 */,
 				4359AABC2A835584002BE6D9 /* Main.storyboard */,
 				4359AABF2A835584002BE6D9 /* Assets.xcassets */,
 				4359AAC12A835584002BE6D9 /* LaunchScreen.storyboard */,
@@ -128,6 +131,7 @@
 				4359AAC32A835584002BE6D9 /* LaunchScreen.storyboard in Resources */,
 				4359AAC02A835584002BE6D9 /* Assets.xcassets in Resources */,
 				4359AABE2A835584002BE6D9 /* Main.storyboard in Resources */,
+				43066CD22A837A88003AAF3F /* oogway.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

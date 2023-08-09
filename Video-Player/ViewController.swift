@@ -13,7 +13,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    
+    private func findVideo(){
+        guard let path = Bundle.main.path(forResource: "oogway", ofType: "mp4") else { // guard
+            debugPrint("oogway.mp4 not found")
+            
+            return
+        }
+    }
 }
 
